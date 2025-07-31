@@ -53,7 +53,7 @@ Create new course page [![Udsdasdntitled.png](https://i.postimg.cc/fyMZmgWn/Udsd
    Navigate to the project directory:
 
 cd lms-learn
-Install dependencies: npm install
+##Install dependencies: npm install
 Create a .env file in the root directory and add the following:
 plaintext
 PORT=5000
@@ -64,14 +64,14 @@ CLOUDINARY_API_KEY=your-cloudinary-api-key
 CLOUDINARY_API_SECRET=your-cloudinary-api-secret
 PAYPAL_CLIENT_ID=your-paypal-client-id
 PAYPAL_SECRET_ID=your-paypal-secret-id
-Start the backend server:
+##Start the backend server:
 cd/server
 npm start
-Navigate to the client directory and install dependencies
+##Navigate to the client directory and install dependencies
 cd client
 Start the frontend development server:
 npm start
-How It Works
+##How It Works
 Instructor Workflow: Instructors can log in, manage their courses, upload content, and track their students.
 Student Workflow: Students can browse available courses, purchase them, and access the content.
 Payments: Payments are processed using the PayPal sandbox for testing.
