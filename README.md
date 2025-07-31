@@ -1,4 +1,4 @@
-<img width="867" height="389" alt="image" src="https://github.com/user-attachments/assets/0ac53e1a-1267-413d-85c5-a1cf775dc68a" /># LMS Learn
+# LMS Learn
 
 LMS Learn is a robust and scalable Learning Management System (LMS) developed as part of the E-learning course project at my university. The platform is designed using the MERN stack (MongoDB, Express.js, React.js, Node.js) to deliver a seamless experience for students and instructors.
 
