@@ -1,4 +1,4 @@
-# LMS Learn
+<img width="867" height="389" alt="image" src="https://github.com/user-attachments/assets/0ac53e1a-1267-413d-85c5-a1cf775dc68a" /># LMS Learn
 
 LMS Learn is a robust and scalable Learning Management System (LMS) developed as part of the E-learning course project at my university. The platform is designed using the MERN stack (MongoDB, Express.js, React.js, Node.js) to deliver a seamless experience for students and instructors.
 
@@ -21,7 +21,12 @@ LMS Learn is a robust and scalable Learning Management System (LMS) developed as
 - **Course Management**: Full CRUD functionality for courses.
 - **Role-based Access**: Separate access and dashboards for students and instructors.
 - **Media Uploads**: Cloudinary integration for hosting videos and images.
-
+## 📸 Screenshots
+Home Page [![Udsdasdntitled.png](https://i.postimg.cc/PJy3cSWj/Udsdasdntitled.png)](https://postimg.cc/RJ3LJQps)
+Explore courses page [![Udsdasdntitled.png](https://i.postimg.cc/HLbtRSmh/Udsdasdntitled.png)](https://postimg.cc/NyfTrk56)
+View course page [![Udsdasdntitled.png](https://i.postimg.cc/6q4qbPJ7/Udsdasdntitled.png)](https://postimg.cc/3073dnw7)
+Instructor view dashboard [![Udsdasdntitled.png](https://i.postimg.cc/KctRTdNV/Udsdasdntitled.png)](https://postimg.cc/G9hLwg6J)
+Create new course page [![Udsdasdntitled.png](https://i.postimg.cc/fyMZmgWn/Udsdasdntitled.png)](https://postimg.cc/vg2pdh63)
 ## Technology Stack
 
 ### Frontend
