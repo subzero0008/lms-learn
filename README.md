@@ -48,12 +48,11 @@ Create new course page [![Udsdasdntitled.png](https://i.postimg.cc/fyMZmgWn/Udsd
 ## Installation and Setup
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/yourusername/lms-learn.git
    Navigate to the project directory:
 
 cd lms-learn
-##Install dependencies: npm install
+## Install dependencies: npm install
 Create a .env file in the root directory and add the following:
 plaintext
 PORT=5000
@@ -67,7 +66,7 @@ PAYPAL_SECRET_ID=your-paypal-secret-id
 ##Start the backend server:
 cd/server
 npm start
-##Navigate to the client directory and install dependencies
+## Navigate to the client directory and install dependencies
 cd client
 Start the frontend development server:
 npm start
